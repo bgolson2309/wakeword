@@ -33,16 +33,16 @@ p {
 .tm-logo {
     position: absolute;
     top: 0;
-    right: 15px;
+    right: 30px;
     z-index: 1000;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #333;
     color: #9C9D9E;
-    width: 400px;
+    width: 300px;
     height: 100px;
-    padding: 50px 40px;
+    padding: 50px 10px;
 }
 
 @media (max-width: 500px) {
